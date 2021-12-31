@@ -1,0 +1,34 @@
+.avatarDiv {
+  margin-left: 25px;
+  position: relative;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.avatar {
+  width: 100%;
+  height: auto;
+}
+
+img {
+  vertical-align: middle;
+  border-style: none;
+}
+
+h1 {
+  padding-top: 25px;
+  font-size: 175%;
+}
+
+.first::first-letter {
+  font-size: 200%;
+  color: #000000;
+}
+
+.addGrayScale {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  opacity: 0.3;
+}

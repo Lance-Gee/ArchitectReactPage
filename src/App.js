@@ -1,23 +1,44 @@
-import logo from './logo.svg';
-import './App.css';
+import "bootstrap/dist/css/bootstrap.min.css";
+import Layout1 from "./components/layouts/Layout1";
+import React, { useState } from "react";
+import CarouselComponent from "./components/CarouselComponent";
+import MainNavigationBar from "./components/MainNavigationBar";
+import MainLayout from "./components/layouts/MainLayout";
+import ArthurData from "./data/ArthurData";
+import DouglasData from "./data/DouglasData";
+import MosheData from "./data/MosheData";
 
 function App() {
+  const arthurData = ArthurData;
+  const douglasData = DouglasData;
+  const mosheData = MosheData;
+  const [author, setAuthor] = useState(arthurData);
+
+  const pickedArthur = () => {
+    console.log("pickedArthur");
+    setAuthor(arthurData);
+  };
+
+  const pickedDouglas = () => {
+    console.log("pickedDouglas");
+    setAuthor(douglasData);
+  };
+
+  const pickedMoshe = () => {
+    console.log("pickedMoshe");
+    setAuthor(mosheData);
+  };
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <MainNavigationBar />
+      <CarouselComponent />
+      <Layout1
+        pickedArthur={pickedArthur}
+        pickedDouglas={pickedDouglas}
+        pickedMoshe={pickedMoshe}
+      />
+      <MainLayout author={author} />
     </div>
   );
 }

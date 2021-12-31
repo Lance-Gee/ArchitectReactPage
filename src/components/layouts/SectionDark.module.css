@@ -1,0 +1,35 @@
+.fadeIn {
+  visibility: visible;
+  opacity: 1;
+  transition: visibility 0s linear 300s, opacity 300ms;
+}
+
+.innerDiv {
+  background-color: #e1e9f0;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.innerDivLight {
+  background-color: #ffffff;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.figCaption {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.fitImage {
+  display: block;
+  margin: auto;
+  width: 100%;
+  height: 200px;
+  box-shadow: 5px 10px #3d3f49;
+  transition: all 0.3s ease;
+}
+
+.fitImage:hover {
+  transform: scale(1.3);
+}

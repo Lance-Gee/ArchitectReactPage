@@ -1,0 +1,10 @@
+.carImageSize {
+  position: relative;
+  object-fit: cover;
+  min-width: 100%;
+  height: 32rem;
+}
+
+.lightText {
+  color: white;
+}
