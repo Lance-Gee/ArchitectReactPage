@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/ArchitectReactPage/static/css/main.8f138eb4.css",
+    "main.js": "/ArchitectReactPage/static/js/main.fdd33db1.js",
+    "static/media/simon-fraser-univ-erickson-exterior1.jpg": "/ArchitectReactPage/static/media/simon-fraser-univ-erickson-exterior1.aaf971089c8327e04782.jpg",
+    "static/media/habitat67.jpg": "/ArchitectReactPage/static/media/habitat67.05dd3915a77ed279b493.jpg",
+    "static/media/2-robson-square-aefoundation-van.jpg": "/ArchitectReactPage/static/media/2-robson-square-aefoundation-van.97a2b63191f09762a1f4.jpg",
+    "static/media/moshe-safdi_bsa.jpg": "/ArchitectReactPage/static/media/moshe-safdi_bsa.168d7c81911b8d2d528e.jpg",
+    "static/media/sky-habitat.jpg": "/ArchitectReactPage/static/media/sky-habitat.404931903d7447471316.jpg",
+    "static/media/background2.jpg": "/ArchitectReactPage/static/media/background2.ea26b78b80316eadd82b.jpg",
+    "static/media/cdn_museum.jpg": "/ArchitectReactPage/static/media/cdn_museum.dc8bbf7fcc324498bd55.jpg",
+    "static/media/background1.jpg": "/ArchitectReactPage/static/media/background1.04f0e0f52b6099c18bf3.jpg",
+    "static/media/resort-Marina-Bay-Sands-Singapore-Moshe-Safdie.jpg": "/ArchitectReactPage/static/media/resort-Marina-Bay-Sands-Singapore-Moshe-Safdie.ef6d449ba25371c558b9.jpg",
+    "static/media/vancouver_centre.jpg": "/ArchitectReactPage/static/media/vancouver_centre.8879c0db80b8b0fb1740.jpg",
+    "static/media/u_lethbridge.jpg": "/ArchitectReactPage/static/media/u_lethbridge.15413b772e313e58ddf6.jpg",
+    "static/media/provincial_building.jpg": "/ArchitectReactPage/static/media/provincial_building.92284a1c6dd7f8d9b437.jpg",
+    "static/media/a_e_design.jpg": "/ArchitectReactPage/static/media/a_e_design.7b71016a0f96bb458c86.jpg",
+    "static/media/background4.jpg": "/ArchitectReactPage/static/media/background4.5f8b65e3200361952d57.jpg",
+    "static/media/Kauffman-Center-for-the-Performing-Arts-Kansas.jpg": "/ArchitectReactPage/static/media/Kauffman-Center-for-the-Performing-Arts-Kansas.c7a3839e51337e5d23b9.jpg",
+    "static/media/st_maries.jpg": "/ArchitectReactPage/static/media/st_maries.40fe5af217e3324f04bf.jpg",
+    "static/media/st_albert_place.jpg": "/ArchitectReactPage/static/media/st_albert_place.cdea4f0cc392c1101987.jpg",
+    "static/media/background3.jpg": "/ArchitectReactPage/static/media/background3.1262997edb9e2d41a9cf.jpg",
+    "static/media/avatar3.jpg": "/ArchitectReactPage/static/media/avatar3.b13eb7174c2401fd6858.jpg",
+    "static/media/avatar2.jpg": "/ArchitectReactPage/static/media/avatar2.8bc41f8a581563becad3.jpg",
+    "static/media/avatar1.jpg": "/ArchitectReactPage/static/media/avatar1.353b55a24a12b36695cd.jpg",
+    "static/media/logo.jpg": "/ArchitectReactPage/static/media/logo.d0e786c2c63fa9864f9c.jpg",
+    "static/media/moshe_safdie.txt": "/ArchitectReactPage/static/media/moshe_safdie.41aabe9fc3dd1b35bd15.txt",
+    "static/media/douglas_cardinal.txt": "/ArchitectReactPage/static/media/douglas_cardinal.b33dbae06e257e1f14fe.txt",
+    "static/media/arthur_erickson.txt": "/ArchitectReactPage/static/media/arthur_erickson.f17dbc998c6fc19c9f14.txt",
+    "index.html": "/ArchitectReactPage/index.html",
+    "main.8f138eb4.css.map": "/ArchitectReactPage/static/css/main.8f138eb4.css.map",
+    "main.fdd33db1.js.map": "/ArchitectReactPage/static/js/main.fdd33db1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f138eb4.css",
+    "static/js/main.fdd33db1.js"
+  ]
+}
